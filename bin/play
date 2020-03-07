@@ -11,4 +11,4 @@ play(board)
 
 # Make sure to execute #play below
 
-play = play(board)
+play = board
